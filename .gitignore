@@ -4,7 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/src/basic-practice
+/src/netFlix-app
+/src/redux
+/public/banner.jpg
+/public/pic.png
+/public/product.json
 # testing
 /coverage
 
